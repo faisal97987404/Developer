@@ -24,8 +24,8 @@
       "token_expiry": null
     },
     {
-      "username": "",
-      "password": "",
+      "username": "1",
+      "password": "1",
       "hwid": "",
       "expiry": null,
       "subscription": "PUBLIC USER PLAN",
@@ -47,4 +47,5 @@
       "token_expiry": null
     }
   ]
+
 }

@@ -114,7 +114,29 @@
       "TwoFactorEnabled": false,
       "session_token": "20a91e28-2001-4a66-952e-7b7b84123839",
       "token_expiry": null
+    },
+    {
+      "username": "1",
+      "password": "$2a$12$/pzBYMvNe8TCvf/i3aH3B.TOfKKURtRWzcsuEHhK5o4uGNoO7qgky",
+      "hwid": "S-1-5-21-3840556803-423840465-1981500453",
+      "expiry": null,
+      "subscription": "PUBLIC USER PLAN",
+      "global_variable": "",
+      "email": "",
+      "creation_date": "2025-08-13",
+      "status": "Active",
+      "IsBanned": false,
+      "IsHWIDLocked": false,
+      "IsSuspended": false,
+      "BanReason": null,
+      "IsVerified": false,
+      "IsAdmin": false,
+      "IsPremium": false,
+      "RequiresPasswordReset": false,
+      "IsEmailNotificationsEnabled": false,
+      "TwoFactorEnabled": false,
+      "session_token": "5945b1ee-8b6e-4189-b36d-424115db17ce",
+      "token_expiry": null
     }
   ]
-
 }

@@ -23,7 +23,6 @@
       "session_token": "caf4cd27-9d74-4f53-ad8d-2071333d1614",
       "token_expiry": "2025-09-09"
     },
-    
     {
       "username": "1",
       "password": "$2a$12$/pzBYMvNe8TCvf/i3aH3B.TOfKKURtRWzcsuEHhK5o4uGNoO7qgky",
@@ -48,5 +47,4 @@
       "token_expiry": null
     }
   ]
-
 }
